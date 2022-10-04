@@ -39,7 +39,7 @@ function draw() {
 let p0, p1;
 
 function setup(){
-  createCanvas(600,600);
+  createCanvas(700,700);
   p0 = new Particle(0, 300);
   p1 = new Particle(300, 0);
   p2 = new Particle(400, 0);
